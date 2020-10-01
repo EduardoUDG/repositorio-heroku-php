@@ -65,7 +65,7 @@
       </div>
       <!-- Imagen -->
       <div class="col-md-4 d-flex flex-column align-items-end estilos-form-img">
-        <img src="contacto.svg" class="mt-auto img-fluid ">
+        <img src="todo/contacto.svg" class="mt-auto img-fluid ">
       </div>
     </div>
   </div>

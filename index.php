@@ -66,5 +66,5 @@ if (isset($_POST['submit'])){
 
 }
 
-require 'contacto.html';
+require 'contacto.php';
 ?>
